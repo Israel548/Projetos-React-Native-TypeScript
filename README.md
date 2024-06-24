@@ -1,2 +1,2 @@
-# Projetos-React-Native-Typescript
+# Projetos-React-Native-TypeScript
 projetos de estudos
